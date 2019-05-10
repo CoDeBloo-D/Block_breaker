@@ -1,0 +1,5 @@
+﻿  game.cpp
+d:\lessons\大二下\programming\project1\project1\project1\common.h(7): warning C4091: “extern ”: 没有声明变量时忽略“Ball”的左侧
+d:\lessons\大二下\programming\project1\project1\project1\common.h(8): warning C4091: “extern ”: 没有声明变量时忽略“Board”的左侧
+d:\lessons\大二下\programming\project1\project1\project1\common.h(9): warning C4091: “extern ”: 没有声明变量时忽略“Block”的左侧
+  Project1.vcxproj -> D:\Lessons\大二下\Programming\Project1\Project1\Debug\Project1.exe
