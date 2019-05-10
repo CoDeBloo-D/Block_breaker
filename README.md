@@ -2,7 +2,7 @@
 A game based on windows.h
 
 
-## Posible bugs
+## Possible bugs
 May have some bugs related to coding
 
 Welcome to report me about them
